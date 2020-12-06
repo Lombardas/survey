@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+
+<hmtl lang="es">
+	<head>
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<!-- VALIDATOR -->
+		<script type="text/javascript" src="main.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>
+
+
+		<title>
+			
+		</title>
+	</head>
+
+	<body>
+
+	<section>
+	
+		<form id = "survey" action = "process.php" method="POST">
+			<label>
+				1-Digite o seu primeiro nome.
+			</label>
+			<input type="text" id= "nombre" name="nombre" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				2-Digite o nome da sua Empresa.
+			</label>
+			<input type="text" name="empresa" data-validation="alphanumeric" required>
+			<br>
+
+			<p>
+				Suas respostas ajudarão a criar uma identidade forte e memorável para seus clientes. Lembre-se de dar mais detalhes o possível. Preparado para uma experiência diferente? Vamos lá:
+			</p>
+			
+			<br>
+
+			<label>
+				3-Tem algum slogan (caso sim, quer que ele acompanhe o logo)?
+			</label>
+			<input type="text" name="tres" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				4-Descreva resumidamente do que se trata sua empresa (conte sua história e sobre o momento que ela passa hoje). Quais produtos ela oferece? Qual a missão, visão e valores da empresa?
+			</label>
+			<input type="text" name="cuatro" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				5- Quem é seu publico alvo? Descreva com suas palavras quem eles são: idade, sexo, classe social, de que forma você espera que seu cliente encontre sua empresa?
+			</label>
+			<input type="text" name="cinco" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				6- Existe alguma cor que você QUER usar? Tem alguma cor que você NÃO QUER usar no seu material? 
+			</label>
+			<input type="text" name="seis" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				7- Há algum elemento que você quer usar na sua marca? (por exemplo, algum símbolo, animal ou planta).
+			</label>
+			<input type="text" name="siete" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				8- Como você quer que sua marca seja vista(você pode escolher várias opções): Como você quer que sua marca seja vista(você pode escolher várias opções):
+			</label>
+			<fieldset>
+				<!-- <legend>What is Your Favorite Pet?</legend>   -->   
+		        <input type="checkbox" name="check[]" value="Moderna">- Moderna<br>          
+		        <input type="checkbox" name="check[]" value="Amigável">- Amigável<br>
+		        <input type="checkbox" name="check[]" value="Nerd">- Nerd<br>
+		        <input type="checkbox" name="check[]" value="Conservadora">- Conservadora<br>
+		        <input type="checkbox" name="check[]" value="Elegante">- Elegante<br>
+		        <input type="checkbox" name="check[]" value="Rebelde">- Rebelde<br>
+		        <input type="checkbox" name="check[]" value="Rústica">- Rústica<br>
+		        <input type="checkbox" name="check[]" value="Tecnológica">- Tecnológica<br>
+		        <input type="checkbox" name="check[]" value="Romântic">- Romântic<br>
+		        <input type="checkbox" name="check[]" value="Profissional">- Profissional<br>
+		        <input type="checkbox" name="check[]" value="Séria">- Séria<br>
+		        <input type="checkbox" name="check[]" value="Extrovertida">- Extrovertida<br>
+		        <input type="checkbox" name="check[]" value="Tradicional">- Tradicional<br>
+		        <input type="checkbox" name="check[]" value="Discreta">- Discreta<br>      
+		        
+        	</fieldset>  
+        	<br>
+
+			<label>
+				9- Tem alguma preferência do tipo de fonte? Como: manual, bastão, usar ambos. Prefere que o nome da sua empresa seja unido (MAISQUEUMLOGO) ou separado (MAIS QUE UM LOGO)?
+			</label>
+			<input type="text" name="nueve" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				10- Tem alguma marca que gosta e gostaria que fizesse algo parecido? (se quiser pode anexar o link da imagem aqui)
+			</label>
+			<input type="text" name="diez" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				11-Quem são seus principais concorrente? (por favor, coloque aqui o link do site ou mídia social deles)
+			</label>
+			<input type="text" name="once" data-validation="alphanumeric" required>
+			<br>
+
+			<label>
+				12- Fique a vontade para dizer mais sobre a sua empresa ou dar considerações finais. Já decorou o ambiente da sua empresa? (caso sim) Usou alguma cor?
+			</label>
+			<input type="text" name="doce" data-validation="alphanumeric" required>
+			<br>
+
+			<input type="submit" name="submit" value="Enviar">
+
+		</form>
+
+	</section>
+
+	</body>
+</HTML>

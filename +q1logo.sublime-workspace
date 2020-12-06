@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"htt",
+				"HttpHeaders"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"ba",
+				"background-origin\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"Pr",
+				"ProjectService"
+			],
+			[
+				"fro",
+				"FormsModule"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"AppR",
+				"appRoutingProviders"
+			],
+			[
+				"app",
+				"appRoutes"
+			],
+			[
+				"file",
+				"fileExt"
+			],
+			[
+				"projec",
+				"projectUpdated"
+			],
+			[
+				"find",
+				"findByIdAndUpdate"
+			],
+			[
+				"mult",
+				"multipartMiddleware"
+			],
+			[
+				"upload",
+				"uploadImage"
+			],
+			[
+				"proje",
+				"projectId"
+			],
+			[
+				"pro",
+				"projectStored"
+			],
+			[
+				"project",
+				"projectStored"
+			],
+			[
+				"Proj",
+				"ProjectSchema"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"form",
+				"formContacto"
+			],
+			[
+				"value",
+				"value_two"
+			],
+			[
+				"Pipe",
+				"PipeTransform"
+			],
+			[
+				"user",
+				"userIde"
+			],
+			[
+				"Http",
+				"HttpClient"
+			],
+			[
+				"zap",
+				"zapatilla"
+			],
+			[
+				"cur",
+				"CursosComponent"
+			],
+			[
+				"zapatill",
+				"ZapatillasComponent"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"estamp",
+				"estampacion"
+			],
+			[
+				"se",
+				"setCapucha"
+			],
+			[
+				"Camis",
+				"Camiseta"
+			],
+			[
+				"cam",
+				"cambiarColor"
+			],
+			[
+				"about",
+				"about_parrafo"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"tesxt",
+				"text-align-last\tproperty"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"Cam",
+				"cambiaVerde"
+			],
+			[
+				"profes",
+				"profesor_string"
+			],
+			[
+				"get",
+				"getUsuarios"
+			],
+			[
+				"p",
+				"p_nombre"
+			],
+			[
+				"div",
+				"divsAmarillos"
+			],
+			[
+				"bus",
+				"Busqueda"
+			],
+			[
+				"arra",
+				"Array"
+			],
+			[
+				"objetivo",
+				"objetivoBuscar"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "survey",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/validacion/index.php",
+		"/C/wamp64/www/validacion/process.php",
+		"/C/Users/atalm/Desktop/portfolio/app.js",
+		"/C/curso/proyecto-angular/src/assets/css/styles.css",
+		"/C/curso/proyecto-angular/src/index.html",
+		"/C/curso/proyecto-angular/angular.json",
+		"/C/curso/proyecto-angular/src/app/component/projects/projects.component.html",
+		"/C/curso/proyecto-angular/src/app/component/about/about.component.ts",
+		"/C/curso/proyecto-angular/src/app/component/about/about.component.html",
+		"/C/curso/proyecto-angular/src/app/app.component.html",
+		"/C/curso/proyecto-angular/src/app/component/projects/projects.component.ts",
+		"/C/curso/proyecto-angular/src/app/services/project.service.ts",
+		"/C/curso/proyecto-angular/src/app/component/create/create.component.html",
+		"/C/curso/proyecto-angular/src/app/component/create/create.component.ts",
+		"/C/curso/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/curso/proyecto-angular/src/app/component/projects/projects.component.spec.ts",
+		"/C/curso/proyecto-angular/src/app/app.module.ts",
+		"/C/curso/proyecto-angular/src/app/models/project.ts",
+		"/C/curso/proyecto-angular/src/app/services/global.ts",
+		"/C/curso/proyecto-angular/src/app/component/about/about.component.css",
+		"/C/curso/proyecto-angular/src/app/app.routing.ts",
+		"/C/curso/proyecto-angular/src/assets/styles.css",
+		"/C/curso/backend/app.js",
+		"/C/curso/backend/controllers/project.js",
+		"/C/curso/backend/models/project.js",
+		"/C/curso/backend/routes/project.js",
+		"/C/curso/backend/controllers/test.js",
+		"/C/curso/backend/index.js",
+		"/C/curso/backend/package.json",
+		"/C/curso/backend/calculadora.js",
+		"/C/curso/aprendiendo-angular/src/app/externo/externo.component.html",
+		"/C/curso/aprendiendo-angular/src/app/service/peticiones.service.ts",
+		"/C/curso/aprendiendo-angular/src/app/externo/externo.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/models/contacto.usuario.ts",
+		"/C/curso/aprendiendo-angular/src/app/contacto/contacto.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/contacto/contacto.component.html",
+		"/C/curso/aprendiendo-angular/src/app/app.module.ts",
+		"/C/curso/aprendiendo-angular/src/app/app.routing.ts",
+		"/C/curso/aprendiendo-angular/src/app/app.component.html",
+		"/C/curso/aprendiendo-angular/src/app/pipes/calculadora.pipe.ts",
+		"/C/curso/aprendiendo-angular/src/app/service/zapatilla.service.ts",
+		"/C/curso/aprendiendo-angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/home/home.component.html",
+		"/C/curso/js/camiseta.ts",
+		"/C/curso/aprendiendo-angular/src/assets/styles.css",
+		"/C/curso/aprendiendo-angular/src/app/cursos/cursos.component.html",
+		"/C/curso/aprendiendo-angular/src/app/cursos/cursos.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/C/curso/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/curso/aprendiendo-angular/src/index.html",
+		"/C/curso/aprendiendo-angular/angular.json",
+		"/C/curso/aprendiendo-angular/src/app/videojuego/videojuego.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/C/curso/aprendiendo-angular/src/app/app.component.ts",
+		"/C/curso/aprendiendo-angular/src/app/videojuego/videojuego.component.html",
+		"/C/curso/js/main.ts",
+		"/C/curso/index.html",
+		"/C/curso/js/04-funciones.ts",
+		"/C/curso/js/03-tipos-de-datos.ts",
+		"/C/curso/js/02-holamundo.ts",
+		"/C/curso/js/02-holamundo.js",
+		"/D/Curso JS/www/poo/index.html",
+		"/D/Curso JS/www/poo/js/02-holamundo.ts",
+		"/D/Curso JS/www/poo/js/01-clase-json.js",
+		"/D/Curso JS/www/proyecto-js/index.html",
+		"/D/Curso JS/www/proyecto-js/css/styles.css",
+		"/D/Curso JS/www/proyecto-js/js/main.js",
+		"/D/Curso JS/www/proyecto-js/about.html",
+		"/D/Curso JS/www/proyecto-js/contacto.html",
+		"/D/Curso JS/www/proyecto-js/acordeon.html",
+		"/D/Curso JS/www/proyecto-js/css/blue.css",
+		"/D/Curso JS/www/proyecto-js/css/red.css",
+		"/D/Curso JS/www/proyecto-js/css/green.css",
+		"/D/Curso JS/www/aprendiendoJquery/interface.html",
+		"/D/Curso JS/www/aprendiendoJquery/interface.js",
+		"/D/Curso JS/www/aprendiendoJquery/ajax.js",
+		"/D/Curso JS/www/aprendiendoJquery/ajax.html",
+		"/D/Curso JS/www/aprendiendoJquery/interface.hmtl",
+		"/D/Curso JS/www/aprendiendoJquery/efectos.html",
+		"/D/Curso JS/www/aprendiendoJquery/efectos.js",
+		"/D/Curso JS/www/aprendiendoJquery/textos.js",
+		"/D/Curso JS/www/aprendiendoJquery/textos.html",
+		"/D/Curso JS/www/aprendiendoJquery/eventos.js",
+		"/D/Curso JS/www/aprendiendoJquery/eventos.html",
+		"/D/Curso JS/www/aprendiendoJquery/index.html",
+		"/D/Curso JS/www/aprendiendoJquery/selectores.js",
+		"/D/Curso JS/www/hola-mundo/fechas.js",
+		"/D/Curso JS/www/hola-mundo/trycatch.js",
+		"/D/Curso JS/www/hola-mundo/fetch.js",
+		"/D/Curso JS/www/hola-mundo/datosexternos.html",
+		"/D/Curso JS/www/hola-mundo/pagina.html",
+		"/D/Curso JS/www/hola-mundo/formulario.html",
+		"/D/Curso JS/www/hola-mundo/index.html",
+		"/D/Curso JS/www/hola-mundo/localstorage.js",
+		"/D/Curso JS/www/hola-mundo/ejerciciolocalstorage.js",
+		"/D/Curso JS/www/hola-mundo/ejerciciodom.js",
+		"/D/Curso JS/www/hola-mundo/json.js",
+		"/D/Curso JS/www/hola-mundo/eventos.js",
+		"/D/Curso JS/www/hola-mundo/dom.js",
+		"/D/Curso JS/www/hola-mundo/bom.js",
+		"/D/Curso JS/www/hola-mundo/timers.js",
+		"/D/Curso JS/www/hola-mundo/ejercicioAr.js",
+		"/D/Curso JS/www/hola-mundo/holamundo.js",
+		"/D/Curso JS/www/hola-mundo/ejercicio1.js",
+		"/D/Curso JS/www/hola-mundo/funcionesAnonimas.js",
+		"/D/Curso JS/www/hola-mundo/funciones-texto.js",
+		"/D/Curso JS/www/hola-mundo/plantillas.js",
+		"/D/Curso JS/www/hola-mundo/buscarArray.js",
+		"/D/Curso JS/www/hola-mundo/10-ventanas.js",
+		"/D/Curso JS/www/hola-mundo/03-let-y-var.js",
+		"/D/Curso JS/www/hola-mundo/index"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "survey",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "+q1logo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Curso JS\\www\\hola-mundo\\pagina.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
