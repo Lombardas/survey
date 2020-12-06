@@ -14,8 +14,7 @@
 		
 
 		if( isset($_POST['check']) )
-		{
-        	
+		{        	
 /*
 		     	//Creacion de PDF
 		     	$pdf=new FPDF(); 
