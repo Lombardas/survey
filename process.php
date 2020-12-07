@@ -14,7 +14,8 @@
 		
 
 		if( isset($_POST['check']) )
-		{        	
+		{
+        	
 /*
 		     	//Creacion de PDF
 		     	$pdf=new FPDF(); 
@@ -53,7 +54,7 @@
 
 		   		//var_dump($fichero);
 		   		//Mandar por email el fichero generado.
-		   		$to = "at.almansa@gmail.com";
+		   		$to = "survey@maisqueumlogo.com.br";  	// 07/12/20 - Cambio tras leer en documentacion que SMTP necesita FROM con una dirección perteneciente a dominio
 		   		$subject = "Briefing ...";
 		   		$message = "Mensaje de pruebas...";
 		   		$headers = "From:lombardas@hotmail.com";
